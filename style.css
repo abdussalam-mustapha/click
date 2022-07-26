@@ -278,6 +278,7 @@ p {
   width: 100vw;
   background: url(images/image-1.jpg);
   background-size: cover;
+
   overflow: hidden;
 }
 
